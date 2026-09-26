@@ -10,6 +10,8 @@
 
 - [Microsoft Store 初始化失败：应用注册、缓存与本机代理排查](docs/windows/microsoft-store-initialization.md)
 
+- [ChatGPT（原 Codex）商店更新失败：官方离线包升级策略](docs/windows/chatgpt-offline-update.md)
+
 ### macOS 与命令行工具
 
 - [Codex CLI 代理环境：Clash、NO_PROXY 与终端／桌面启动差异](docs/macos/codex-cli-proxy.md)
