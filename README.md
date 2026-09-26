@@ -10,6 +10,10 @@
 
 - [Microsoft Store 初始化失败：应用注册、缓存与本机代理排查](docs/windows/microsoft-store-initialization.md)
 
+### macOS 与命令行工具
+
+- [Codex CLI 代理环境：Clash、NO_PROXY 与终端／桌面启动差异](docs/macos/codex-cli-proxy.md)
+
 ## 编写约定
 
 - 先记录现象与证据，再选择对应修复，避免一次执行所有命令。
