@@ -20,6 +20,10 @@
 
 - [伟景智能 Vizum：高级管理模式与帧率、点云调优](docs/industrial-vision/vizum-advanced-mode-tuning.md)
 
+### 工业自动化与船舶焊接
+
+- [PLC Modbus TCP、钱江机器人TCP与Python / Unity桥接](docs/industrial-automation/ship-welding-plc-qianjiang-python-unity.md)
+
 ## 编写约定
 
 - 先记录现象与证据，再选择对应修复，避免一次执行所有命令。
