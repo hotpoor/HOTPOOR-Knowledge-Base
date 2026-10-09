@@ -16,6 +16,10 @@
 
 - [Codex CLI 代理环境：Clash、NO_PROXY 与终端／桌面启动差异](docs/macos/codex-cli-proxy.md)
 
+### 工业视觉
+
+- [伟景智能 Vizum：高级管理模式与帧率、点云调优](docs/industrial-vision/vizum-advanced-mode-tuning.md)
+
 ## 编写约定
 
 - 先记录现象与证据，再选择对应修复，避免一次执行所有命令。
